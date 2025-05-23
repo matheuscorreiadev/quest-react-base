@@ -1,0 +1,12 @@
+.btn {
+    background-color: SkyBlue;
+    color: OrangeRed;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.btn:hover {
+    background-color: red;
+    color: white;
+    cursor: pointer;
+}

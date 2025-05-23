@@ -8,10 +8,6 @@ Esse projeto faz parte do Curso DevQuest do modulo de React Básico, e foi pedid
 
 ![](./src/assets/images/quest-react-base.gif)
 
-### Links
-
-- URL do Site Ativo: [aqui](https://matheuscorreiadev.github.io/quest-react-base)
-
 ## Meu Processo
 
 ### Construído com
